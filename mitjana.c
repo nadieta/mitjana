@@ -13,9 +13,9 @@ int main() {
 		suma=suma+nou_valor;
 		numero_repeticions=numero_repeticions+1;
 		printf("Vols continuar (s/n): ");
-		scanf(" %c",&consulta); 
+		scanf(" %s",&consulta); 
 	}
 	mitjana=suma/numero_repeticions;
 	printf("La mitjana resultant és: %.2f\n",mitjana);	
 	return 0;
-}
+
