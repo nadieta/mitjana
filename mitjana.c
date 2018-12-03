@@ -1,4 +1,4 @@
-#include <stdio.h
+#include <stdio.h>
 int main() {
 	float suma=0.0;
 	float mitjana=0.0;
