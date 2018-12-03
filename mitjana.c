@@ -2,7 +2,7 @@
 int main() {
 	float suma=0.0;
 	float mitjana=0.0;
-	float nou_valor;
+	float nou_valor=0.0;
 	int numero_repeticions=0;
 	char consulta='s';
 	
